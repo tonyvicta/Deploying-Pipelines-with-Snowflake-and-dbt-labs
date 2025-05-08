@@ -7,3 +7,11 @@ In this hands-on lab, we will build a data pipeline using Snowflake and dbt to a
 ## Step-By-Step Guide
 
 For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide](https://quickstarts.snowflake.com/guide/data_engineering_deploying_pipelines_with_snowflake_and_dbt_labs/index.html).
+
+
+## 🛠 Core Tech Stack
+
+- **[Snowflake](https://www.snowflake.com/)** – Cloud data platform for scalable, secure data storage and compute
+- **[dbt (Data Build Tool)](https://www.getdbt.com/)** – SQL-based transformation and ELT orchestration
+- **[Python](https://www.python.org/)** – Environment management and CLI execution via `pipx` or `pip`
+- **[Git & GitHub](https://github.com/)** – Version control and collaboration platform
